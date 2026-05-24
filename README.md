@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/codewithrb324">
-    <img src="https://img.shields.io/github/followers/codewithrb324?label=Follow&style=social" alt="GitHub Followers" />
+  <a href="https://github.com/raghavdevcode">
+    <img src="https://img.shields.io/github/followers/raghavdevcode?label=Follow&style=social" alt="GitHub Followers" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=codewithrb324&color=brightgreen&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=raghavdevcode&color=brightgreen&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -39,7 +39,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithrb324&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raghavdevcode&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
