@@ -1,18 +1,3 @@
-<h1 align="center">Hi there, I'm Raghav Bhanot 👋</h1>
-
-<p align="center">
-  <em>Passionate about building websites</em>
-</p>
-
-<p align="center">
-  <a href="https://github.com/raghavdevcode">
-    <img src="https://img.shields.io/github/followers/raghavdevcode?label=Follow&style=social" alt="GitHub Followers" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=raghavdevcode&color=brightgreen&style=flat" alt="Profile Views" />
-</p>
-
----
-
 ## 🚀 About Me
 
 - 🌱 I'm a **Fresher** actively looking for opportunities in Web Development
