@@ -21,14 +21,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raghavdevcode&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
----
-
 ## 📂 Projects
 
 📘 StudyCourse
