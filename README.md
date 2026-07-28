@@ -29,7 +29,7 @@ StudyCourse is a premium e-learning platform built with the MERN stack, offering
 
 ⚠️ Note: This project is hosted on a free-tier server, so it goes offline from the 16th to the end of each month due to usage limits, and comes back live on the 1st of the next month. Thanks for your patience!
 
-🔗 <a href="https://studycourse-frontend.onrender.com/">Live Demo: Check out the project here!</a>
+🔗 <a href="https://studycoursewebsite.netlify.app/">Live Demo: Check out the project here!</a>
 
  (Adding more projects soon!)
 
