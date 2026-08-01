@@ -26,9 +26,6 @@
 📘 StudyCourse
 
 StudyCourse is a premium e-learning platform built with the MERN stack, offering affordable online courses in Web Development, Programming, and Databases. It features video-based lessons, lifetime course access, free preview lessons, secure authentication, enrollment system, and an interactive student learning experience.
-
-⚠️ Note: This project is hosted on a free-tier server, so it goes offline from the 16th to the end of each month due to usage limits, and comes back live on the 1st of the next month. Thanks for your patience!
-
 🔗 <a href="https://studycoursewebsite.netlify.app/">Live Demo: Check out the project here!</a>
 
  (Adding more projects soon!)
